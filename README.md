@@ -8,15 +8,7 @@
 /var/cpanel/whm/nvdata/root.yaml
 ```
 
-## ติดตั้งและใช้งาน
-
-```bash
-curl -sO https://raw.githubusercontent.com/AnonymousVS/WHM-Favorites-Menu/main/set-whm-favorites.sh
-chmod +x set-whm-favorites.sh
-./set-whm-favorites.sh
-```
-
-หรือรันตรงๆ ไม่ต้องโหลด:
+## ช้งาน
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/AnonymousVS/WHM-Favorites-Menu/main/set-whm-favorites.sh)
