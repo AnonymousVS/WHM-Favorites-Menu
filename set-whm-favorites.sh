@@ -21,6 +21,7 @@ favorites:
   - server_configuration$tweak_settings
   - account_functions$rearrange_an_account
   - transfers$transfer_tool
+  - system_health$process_manager
   - plugins$jetbackup_5
   - plugins$imunify360
   - plugins$litespeed_web_server
